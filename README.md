@@ -41,16 +41,16 @@
 
 ## 📸 Screenshots 
 **Start Screen**
-![Start Screen](Screenshots/wb_start.png) 
+![Start Screen](app/Screenshots/wb_start.png) 
 
 **Program an Alarm**
-![Program](Screenshots/wb_setup.png) 
+![Program](app/Screenshots/wb_setup.png) 
 
 **View Alarms**
-![Alarms](Screenshots/wb_program.png) 
+![Alarms](app/Screenshots/wb_program.png) 
 
 **Settings: Language and Dark Theme**
-![Settings](Screenshots/wb_lang.png) 
+![Settings](app/Screenshots/wb_lang.png) 
 
 ## Video Demo
-![Demo](Screenshots/wb_demo.mp4) 
+![Demo](app/Screenshots/wb_demo.mp4) 
